@@ -1,0 +1,8 @@
+*.jpg
+*.png
+runs/
+labels/
+*.onnx
+*.pt
+*.engine
+weights/
